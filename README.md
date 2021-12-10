@@ -1,16 +1,15 @@
-# form_validation_assignment
+# Tutero QA Assignment
 
-A new Flutter project.
+## About
 
-## Getting Started
+The first part of this assignment is a testing challenge, where you will write unit tests, widget tests and integration test(s) to demonstrate your knowledge of testing with the Flutter driver.
 
-This project is a starting point for a Flutter application.
+## Criteria
 
-A few resources to get you started if this is your first Flutter project:
+You will be judged off your choice of granularity and exhaustiveness of your tests, as well as the quality and efficiency of the code you write. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Notes
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Your tests should account for both web and mobile/desktop platforms. Make sure you study the code-base and account for cases where functionality might be platform-dependent.
+
+Good luck! 🚀
